@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 791.89 1001.07"><defs><style>.cls-1 {
+  fill: #f3b537;
+}
+
+.cls-2 {
+  opacity: .7;
+}
+
+.cls-3 {
+  fill: #f5c047;
+}
+
+.cls-4 {
+  fill: #f6c24b;
+}
+
+.cls-5 {
+  fill: #f5be45;
+}
+
+.cls-6 {
+  fill: #fcd369;
+}
+
+.cls-7 {
+  fill: #f3b93d;
+}
+
+.cls-8 {
+  fill: #f8c551;
+}
+
+.cls-9 {
+  fill: #f1ae29;
+}
+
+.cls-10 {
+  fill: #f9c857;
+}
+
+.cls-11 {
+  fill: #f4ba3f;
+}
+
+.cls-12 {
+  fill: #f5be44;
+}
+
+.cls-13 {
+  fill: #f5bd43;
+}
+
+.cls-14 {
+  fill: #f6c34c;
+}
+
+.cls-15 {
+  fill: #f7c550;
+}
+
+.cls-16 {
+  fill: #f9c958;
+}
+
+.cls-17 {
+  fill: #f8c654;
+}
+
+.cls-18 {
+  fill: #f2b12f;
+}
+
+.cls-19 {
+  fill: #f7c34d;
+}
+
+.cls-20 {
+  fill: #f8c755;
+}
+
+.cls-21 {
+  fill: #fbcc5f;
+}
+
+.cls-22 {
+  fill: #f4ba40;
+}
+
+.cls-23 {
+  fill: #f1af2a;
+}
+
+.cls-24 {
+  fill: #f4bc42;
+}
+
+.cls-25 {
+  fill: #f8c652;
+}
+
+.cls-26 {
+  clip-path: url("#clippath-1");
+}
+
+.cls-27 {
+  fill: #f3b639;
+}
+
+.cls-28 {
+  fill: #f1b02d;
+}
+
+.cls-29 {
+  fill: #f1b02c;
+}
+
+.cls-30 {
+  fill: #f7c44d;
+}
+
+.cls-31 {
+  fill: #faca5b;
+}
+
+.cls-32 {
+  fill: #f9c755;
+}
+
+.cls-33 {
+  fill: #f5bf45;
+}
+
+.cls-34 {
+  fill: #f8c651;
+}
+
+.cls-35 {
+  fill: #f2b334;
+}
+
+.cls-36 {
+  fill: #f1af2b;
+}
+
+.cls-37 {
+  fill: #f1af2c;
+}
+
+.cls-38 {
+  fill: #f7c34c;
+}
+
+.cls-39 {
+  fill: #f5bd44;
+}
+
+.cls-40 {
+  fill: #f4b93e;
+}
+
+.cls-41 {
+  fill: #f9c856;
+}
+
+.cls-42 {
+  fill: #f8c754;
+}
+
+.cls-43 {
+  fill: #f8c550;
+}
+
+.cls-44 {
+  fill: #faca5a;
+}
+
+.cls-45 {
+  fill: #f2b230;
+}
+
+.cls-46 {
+  fill: #f2b231;
+}
+
+.cls-47 {
+  fill: #f4bb41;
+}
+
+.cls-48 {
+  fill: #f8c653;
+}
+
+.cls-49 {
+  fill: #fbcd60;
+}
+
+.cls-50 {
+  fill: #f9c756;
+}
+
+.cls-51 {
+  fill: #f7c54f;
+}
+
+.cls-52 {
+  clip-path: url("#clippath");
+}
+
+.cls-53 {
+  fill: #f2b436;
+}
+
+.cls-54 {
+  fill: none;
+}
+
+.cls-55 {
+  fill: #f5bf46;
+}
+
+.cls-56 {
+  fill: #f4ba3e;
+}
+
+.cls-57 {
+  fill: #f2b12e;
+}
+
+.cls-58 {
+  fill: #f2b232;
+}
+
+.cls-59 {
+  fill: #f3b73b;
+}
+
+.cls-60 {
+  fill: #f6c24a;
+}
+
+.cls-61 {
+  fill: url("#_称未設定グラデーション_62");
+}
+
+.cls-62 {
+  fill: #f2b333;
+}
+
+.cls-63 {
+  fill: #f6c249;
+}
+
+.cls-64 {
+  fill: #f3b73c;
+}
+
+.cls-65 {
+  fill: #f3b538;
+}
+
+.cls-66 {
+  fill: #f5bf47;
+}
+
+.cls-67 {
+  fill: #f6c34b;
+}
+
+.cls-68 {
+  fill: #f6c148;
+}
+
+.cls-69 {
+  fill: #f2b435;
+}
+
+.cls-70 {
+  fill: #facb5d;
+}
+
+.cls-71 {
+  fill: #f3b63a;
+}
+
+.cls-72 {
+  fill: #f7c44e;
+}
+
+.cls-73 {
+  fill: #f9c858;
+}
+
+.cls-74 {
+  fill: #f3b638;
+}
+
+.cls-75 {
+  fill: #f3b83d;
+}
+
+.cls-76 {
+  fill: #f6c149;
+}
+
+.cls-77 {
+  fill: #f2b536;
+}
+
+.cls-78 {
+  fill: #f2b02e;
+}
+
+.cls-79 {
+  fill: #fac959;
+}
+
+.cls-80 {
+  fill: #f4bb40;
+}
+
+.cls-81 {
+  fill: #f4bc41;
+}
+
+.cls-82 {
+  fill: #f3b83c;
+}
+
+.cls-83 {
+  fill: #facc5d;
+}
+
+.cls-84 {
+  fill: #f3b73a;
+}
+
+.cls-85 {
+  fill: #f6c048;
+}
+
+.cls-86 {
+  fill: #fcd368;
+}
+
+.cls-87 {
+  fill: #f2b434;
+}
+
+</style><clipPath id="clippath"><polygon class="cls-54" points="0 1001.07 791.89 886.88 789.98 0 0 0 0 1001.07"></polygon></clipPath><linearGradient id="_称未設定グラデーション_62" x1="-229.26" y1="372.76" x2="1071.48" y2="1109.84" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f0ad26"></stop><stop offset=".56" stop-color="#fbd266"></stop><stop offset="1" stop-color="#ffe189"></stop></linearGradient><clipPath id="clippath-1"><polygon class="cls-54" points="0 1001.07 791.89 886.88 789.98 0 0 0 0 1001.07"></polygon></clipPath></defs><g id="upward_lp"><g><g class="cls-52"><polygon class="cls-61" points=".96 1532.84 797 1532.84 925.75 -2.37 .96 -2.37 .96 1532.84"></polygon></g><g class="cls-26"><g><g class="cls-2"><polygon class="cls-58" points="-24.61 0 -57.44 56.88 8.23 56.88 -24.61 0"></polygon><polygon class="cls-78" points="-57.44 56.88 -24.61 113.76 8.23 56.88 -57.44 56.88"></polygon><polygon class="cls-74" points="40.7 0 -24.98 0 7.86 56.88 40.7 0"></polygon><polygon class="cls-62" points="40.7 0 7.86 56.88 73.54 56.88 40.7 0"></polygon><polygon class="cls-1" points="7.86 56.88 40.7 113.76 73.54 56.88 7.86 56.88"></polygon><polygon class="cls-71" points="-24.98 113.76 40.7 113.76 7.86 56.88 -24.98 113.76"></polygon><polygon class="cls-27" points="106 0 40.33 0 73.17 56.88 106 0"></polygon><polygon class="cls-65" points="106 0 73.17 56.88 138.84 56.88 106 0"></polygon><polygon class="cls-59" points="73.17 56.88 106 113.76 138.84 56.88 73.17 56.88"></polygon><polygon class="cls-23" points="40.33 113.76 106 113.76 73.17 56.88 40.33 113.76"></polygon><polygon class="cls-87" points="171.31 0 105.63 0 138.47 56.88 171.31 0"></polygon><polygon class="cls-77" points="171.31 0 138.47 56.88 204.15 56.88 171.31 0"></polygon><polygon class="cls-40" points="138.47 56.88 171.31 113.76 204.15 56.88 138.47 56.88"></polygon><polygon class="cls-45" points="105.63 113.76 171.31 113.76 138.47 56.88 105.63 113.76"></polygon><polygon class="cls-11" points="236.61 0 170.94 0 203.77 56.88 236.61 0"></polygon><polygon class="cls-3" points="236.61 0 203.77 56.88 269.45 56.88 236.61 0"></polygon><polygon class="cls-57" points="203.77 56.88 236.61 113.76 269.45 56.88 203.77 56.88"></polygon><polygon class="cls-35" points="170.94 113.76 236.61 113.76 203.77 56.88 170.94 113.76"></polygon><polygon class="cls-31" points="497.46 0 563.14 0 530.3 56.88 497.46 0"></polygon><polygon class="cls-48" points="497.46 0 530.3 56.88 464.62 56.88 497.46 0"></polygon><polygon class="cls-56" points="530.3 56.88 497.46 113.76 464.62 56.88 530.3 56.88"></polygon><polygon class="cls-33" points="563.14 113.76 497.46 113.76 530.3 56.88 563.14 113.76"></polygon><polygon class="cls-5" points="432.15 0 497.83 0 464.99 56.88 432.15 0"></polygon><polygon class="cls-59" points="432.15 0 464.99 56.88 399.32 56.88 432.15 0"></polygon><polygon class="cls-22" points="464.99 56.88 432.15 113.76 399.32 56.88 464.99 56.88"></polygon><polygon class="cls-75" points="497.83 113.76 432.15 113.76 464.99 56.88 497.83 113.76"></polygon><polygon class="cls-81" points="366.85 0 432.53 0 399.69 56.88 366.85 0"></polygon><polygon class="cls-24" points="366.85 0 399.69 56.88 334.01 56.88 366.85 0"></polygon><polygon class="cls-55" points="399.69 56.88 366.85 113.76 334.01 56.88 399.69 56.88"></polygon><polygon class="cls-22" points="432.53 113.76 366.85 113.76 399.69 56.88 432.53 113.76"></polygon><polygon class="cls-12" points="301.55 0 367.22 0 334.38 56.88 301.55 0"></polygon><polygon class="cls-7" points="301.55 0 334.38 56.88 268.71 56.88 301.55 0"></polygon><polygon class="cls-84" points="334.38 56.88 301.55 113.76 268.71 56.88 334.38 56.88"></polygon><polygon class="cls-47" points="367.22 113.76 301.55 113.76 334.38 56.88 367.22 113.76"></polygon><polygon class="cls-64" points="236.24 0 301.92 0 269.08 56.88 236.24 0"></polygon><polygon class="cls-37" points="301.92 113.76 236.24 113.76 269.08 56.88 301.92 113.76"></polygon><polygon class="cls-69" points="-24.61 113.76 -57.44 170.63 8.23 170.63 -24.61 113.76"></polygon><polygon class="cls-78" points="-57.44 170.63 -24.61 227.51 8.23 170.63 -57.44 170.63"></polygon><polygon class="cls-74" points="40.7 113.76 -24.98 113.76 7.86 170.63 40.7 113.76"></polygon><polygon class="cls-62" points="40.7 113.76 7.86 170.63 73.54 170.63 40.7 113.76"></polygon><polygon class="cls-29" points="7.86 170.63 40.7 227.51 73.54 170.63 7.86 170.63"></polygon><polygon class="cls-71" points="-24.98 227.51 40.7 227.51 7.86 170.63 -24.98 227.51"></polygon><polygon class="cls-27" points="106 113.76 40.33 113.76 73.17 170.63 106 113.76"></polygon><polygon class="cls-65" points="106 113.76 73.17 170.63 138.84 170.63 106 113.76"></polygon><polygon class="cls-59" points="73.17 170.63 106 227.51 138.84 170.63 73.17 170.63"></polygon><polygon class="cls-23" points="40.33 227.51 106 227.51 73.17 170.63 40.33 227.51"></polygon><polygon class="cls-45" points="171.31 113.76 105.63 113.76 138.47 170.63 171.31 113.76"></polygon><polygon class="cls-77" points="171.31 113.76 138.47 170.63 204.15 170.63 171.31 113.76"></polygon><polygon class="cls-40" points="138.47 170.63 171.31 227.51 204.15 170.63 138.47 170.63"></polygon><polygon class="cls-45" points="105.63 227.51 171.31 227.51 138.47 170.63 105.63 227.51"></polygon><polygon class="cls-11" points="236.61 113.76 170.94 113.76 203.77 170.63 236.61 113.76"></polygon><polygon class="cls-53" points="236.61 113.76 203.77 170.63 269.45 170.63 236.61 113.76"></polygon><polygon class="cls-57" points="203.77 170.63 236.61 227.51 269.45 170.63 203.77 170.63"></polygon><polygon class="cls-35" points="170.94 227.51 236.61 227.51 203.77 170.63 170.94 227.51"></polygon><polygon class="cls-33" points="497.46 113.76 563.14 113.76 530.3 170.63 497.46 113.76"></polygon><polygon class="cls-48" points="497.46 113.76 530.3 170.63 464.62 170.63 497.46 113.76"></polygon><polygon class="cls-56" points="530.3 170.63 497.46 227.51 464.62 170.63 530.3 170.63"></polygon><polygon class="cls-38" points="563.14 227.51 497.46 227.51 530.3 170.63 563.14 227.51"></polygon><polygon class="cls-5" points="432.15 113.76 497.83 113.76 464.99 170.63 432.15 113.76"></polygon><polygon class="cls-59" points="432.15 113.76 464.99 170.63 399.32 170.63 432.15 113.76"></polygon><polygon class="cls-80" points="464.99 170.63 432.15 227.51 399.32 170.63 464.99 170.63"></polygon><polygon class="cls-75" points="497.83 227.51 432.15 227.51 464.99 170.63 497.83 227.51"></polygon><polygon class="cls-81" points="366.85 113.76 432.53 113.76 399.69 170.63 366.85 113.76"></polygon><polygon class="cls-24" points="366.85 113.76 399.69 170.63 334.01 170.63 366.85 113.76"></polygon><polygon class="cls-55" points="399.69 170.63 366.85 227.51 334.01 170.63 399.69 170.63"></polygon><polygon class="cls-22" points="432.53 227.51 366.85 227.51 399.69 170.63 432.53 227.51"></polygon><polygon class="cls-39" points="301.55 113.76 367.22 113.76 334.38 170.63 301.55 113.76"></polygon><polygon class="cls-7" points="301.55 113.76 334.38 170.63 268.71 170.63 301.55 113.76"></polygon><polygon class="cls-84" points="334.38 170.63 301.55 227.51 268.71 170.63 334.38 170.63"></polygon><polygon class="cls-47" points="367.22 227.51 301.55 227.51 334.38 170.63 367.22 227.51"></polygon><polygon class="cls-64" points="236.24 113.76 301.92 113.76 269.08 170.63 236.24 113.76"></polygon><polygon class="cls-37" points="301.92 227.51 236.24 227.51 269.08 170.63 301.92 227.51"></polygon><polygon class="cls-69" points="-24.61 227.51 -57.44 284.39 8.23 284.39 -24.61 227.51"></polygon><polygon class="cls-78" points="-57.44 284.39 -24.61 341.27 8.23 284.39 -57.44 284.39"></polygon><polygon class="cls-74" points="40.7 227.51 -24.98 227.51 7.86 284.39 40.7 227.51"></polygon><polygon class="cls-62" points="40.7 227.51 7.86 284.39 73.54 284.39 40.7 227.51"></polygon><polygon class="cls-29" points="7.86 284.39 40.7 341.27 73.54 284.39 7.86 284.39"></polygon><polygon class="cls-71" points="-24.98 341.27 40.7 341.27 7.86 284.39 -24.98 341.27"></polygon><polygon class="cls-27" points="106 227.51 40.33 227.51 73.17 284.39 106 227.51"></polygon><polygon class="cls-65" points="106 227.51 73.17 284.39 138.84 284.39 106 227.51"></polygon><polygon class="cls-65" points="73.17 284.39 106 341.27 138.84 284.39 73.17 284.39"></polygon><polygon class="cls-23" points="40.33 341.27 106 341.27 73.17 284.39 40.33 341.27"></polygon><polygon class="cls-45" points="171.31 227.51 105.63 227.51 138.47 284.39 171.31 227.51"></polygon><polygon class="cls-77" points="171.31 227.51 138.47 284.39 204.15 284.39 171.31 227.51"></polygon><polygon class="cls-53" points="138.47 284.39 171.31 341.27 204.15 284.39 138.47 284.39"></polygon><polygon class="cls-36" points="105.63 341.27 171.31 341.27 138.47 284.39 105.63 341.27"></polygon><polygon class="cls-11" points="236.61 227.51 170.94 227.51 203.77 284.39 236.61 227.51"></polygon><polygon class="cls-53" points="236.61 227.51 203.77 284.39 269.45 284.39 236.61 227.51"></polygon><polygon class="cls-84" points="203.77 284.39 236.61 341.27 269.45 284.39 203.77 284.39"></polygon><polygon class="cls-37" points="170.94 341.27 236.61 341.27 203.77 284.39 170.94 341.27"></polygon><polygon class="cls-33" points="497.46 227.51 563.14 227.51 530.3 284.39 497.46 227.51"></polygon><polygon class="cls-48" points="497.46 227.51 530.3 284.39 464.62 284.39 497.46 227.51"></polygon><polygon class="cls-56" points="530.3 284.39 497.46 341.27 464.62 284.39 530.3 284.39"></polygon><polygon class="cls-60" points="563.14 341.27 497.46 341.27 530.3 284.39 563.14 341.27"></polygon><polygon class="cls-82" points="432.15 227.51 497.83 227.51 464.99 284.39 432.15 227.51"></polygon><polygon class="cls-59" points="432.15 227.51 464.99 284.39 399.32 284.39 432.15 227.51"></polygon><polygon class="cls-80" points="464.99 284.39 432.15 341.27 399.32 284.39 464.99 284.39"></polygon><polygon class="cls-75" points="497.83 341.27 432.15 341.27 464.99 284.39 497.83 341.27"></polygon><polygon class="cls-81" points="366.85 227.51 432.53 227.51 399.69 284.39 366.85 227.51"></polygon><polygon class="cls-24" points="366.85 227.51 399.69 284.39 334.01 284.39 366.85 227.51"></polygon><polygon class="cls-55" points="399.69 284.39 366.85 341.27 334.01 284.39 399.69 284.39"></polygon><polygon class="cls-22" points="432.53 341.27 366.85 341.27 399.69 284.39 432.53 341.27"></polygon><polygon class="cls-47" points="301.55 227.51 367.22 227.51 334.38 284.39 301.55 227.51"></polygon><polygon class="cls-7" points="301.55 227.51 334.38 284.39 268.71 284.39 301.55 227.51"></polygon><polygon class="cls-64" points="334.38 284.39 301.55 341.27 268.71 284.39 334.38 284.39"></polygon><polygon class="cls-47" points="367.22 341.27 301.55 341.27 334.38 284.39 367.22 341.27"></polygon><polygon class="cls-64" points="236.24 227.51 301.92 227.51 269.08 284.39 236.24 227.51"></polygon><polygon class="cls-3" points="301.92 341.27 236.24 341.27 269.08 284.39 301.92 341.27"></polygon><polygon class="cls-69" points="-24.61 340.22 -57.44 397.09 8.23 397.09 -24.61 340.22"></polygon><polygon class="cls-78" points="-57.44 397.09 -24.61 453.97 8.23 397.09 -57.44 397.09"></polygon><polygon class="cls-46" points="40.7 340.22 -24.98 340.22 7.86 397.09 40.7 340.22"></polygon><polygon class="cls-62" points="40.7 340.22 7.86 397.09 73.54 397.09 40.7 340.22"></polygon><polygon class="cls-29" points="7.86 397.09 40.7 453.97 73.54 397.09 7.86 397.09"></polygon><polygon class="cls-71" points="-24.98 453.97 40.7 453.97 7.86 397.09 -24.98 453.97"></polygon><polygon class="cls-27" points="106 340.22 40.33 340.22 73.17 397.09 106 340.22"></polygon><polygon class="cls-18" points="106 340.22 73.17 397.09 138.84 397.09 106 340.22"></polygon><polygon class="cls-65" points="73.17 397.09 106 453.97 138.84 397.09 73.17 397.09"></polygon><polygon class="cls-23" points="40.33 453.97 106 453.97 73.17 397.09 40.33 453.97"></polygon><polygon class="cls-45" points="171.31 340.22 105.63 340.22 138.47 397.09 171.31 340.22"></polygon><polygon class="cls-77" points="171.31 340.22 138.47 397.09 204.15 397.09 171.31 340.22"></polygon><polygon class="cls-53" points="138.47 397.09 171.31 453.97 204.15 397.09 138.47 397.09"></polygon><polygon class="cls-36" points="105.63 453.97 171.31 453.97 138.47 397.09 105.63 453.97"></polygon><polygon class="cls-7" points="236.61 340.22 170.94 340.22 203.77 397.09 236.61 340.22"></polygon><polygon class="cls-57" points="236.61 340.22 203.77 397.09 269.45 397.09 236.61 340.22"></polygon><polygon class="cls-40" points="203.77 397.09 236.61 453.97 269.45 397.09 203.77 397.09"></polygon><polygon class="cls-9" points="170.94 453.97 236.61 453.97 203.77 397.09 170.94 453.97"></polygon><polygon class="cls-33" points="497.46 340.22 563.14 340.22 530.3 397.09 497.46 340.22"></polygon><polygon class="cls-31" points="497.46 340.22 530.3 397.09 464.62 397.09 497.46 340.22"></polygon><polygon class="cls-51" points="530.3 397.09 497.46 453.97 464.62 397.09 530.3 397.09"></polygon><polygon class="cls-59" points="563.14 453.97 497.46 453.97 530.3 397.09 563.14 453.97"></polygon><polygon class="cls-82" points="432.15 340.22 497.83 340.22 464.99 397.09 432.15 340.22"></polygon><polygon class="cls-5" points="432.15 340.22 464.99 397.09 399.32 397.09 432.15 340.22"></polygon><polygon class="cls-80" points="464.99 397.09 432.15 453.97 399.32 397.09 464.99 397.09"></polygon><polygon class="cls-20" points="497.83 453.97 432.15 453.97 464.99 397.09 497.83 453.97"></polygon><polygon class="cls-81" points="366.85 340.22 432.53 340.22 399.69 397.09 366.85 340.22"></polygon><polygon class="cls-85" points="366.85 340.22 399.69 397.09 334.01 397.09 366.85 340.22"></polygon><polygon class="cls-55" points="399.69 397.09 366.85 453.97 334.01 397.09 399.69 397.09"></polygon><polygon class="cls-22" points="432.53 453.97 366.85 453.97 399.69 397.09 432.53 453.97"></polygon><polygon class="cls-47" points="301.55 340.22 367.22 340.22 334.38 397.09 301.55 340.22"></polygon><polygon class="cls-35" points="301.55 340.22 334.38 397.09 268.71 397.09 301.55 340.22"></polygon><polygon class="cls-64" points="334.38 397.09 301.55 453.97 268.71 397.09 334.38 397.09"></polygon><polygon class="cls-63" points="367.22 453.97 301.55 453.97 334.38 397.09 367.22 453.97"></polygon><polygon class="cls-11" points="236.24 340.22 301.92 340.22 269.08 397.09 236.24 340.22"></polygon><polygon class="cls-3" points="301.92 453.97 236.24 453.97 269.08 397.09 301.92 453.97"></polygon><polygon class="cls-69" points="-24.61 452.92 -57.44 509.8 8.23 509.8 -24.61 452.92"></polygon><polygon class="cls-58" points="-57.44 509.8 -24.61 566.68 8.23 509.8 -57.44 509.8"></polygon><polygon class="cls-46" points="40.7 452.92 -24.98 452.92 7.86 509.8 40.7 452.92"></polygon><polygon class="cls-62" points="40.7 452.92 7.86 509.8 73.54 509.8 40.7 452.92"></polygon><polygon class="cls-29" points="7.86 509.8 40.7 566.68 73.54 509.8 7.86 509.8"></polygon><polygon class="cls-71" points="-24.98 566.68 40.7 566.68 7.86 509.8 -24.98 566.68"></polygon><polygon class="cls-23" points="106 452.92 40.33 452.92 73.17 509.8 106 452.92"></polygon><polygon class="cls-18" points="106 452.92 73.17 509.8 138.84 509.8 106 452.92"></polygon><polygon class="cls-65" points="73.17 509.8 106 566.68 138.84 509.8 73.17 509.8"></polygon><polygon class="cls-23" points="40.33 566.68 106 566.68 73.17 509.8 40.33 566.68"></polygon><polygon class="cls-45" points="171.31 452.92 105.63 452.92 138.47 509.8 171.31 452.92"></polygon><polygon class="cls-87" points="171.31 452.92 138.47 509.8 204.15 509.8 171.31 452.92"></polygon><polygon class="cls-12" points="138.47 509.8 171.31 566.68 204.15 509.8 138.47 509.8"></polygon><polygon class="cls-53" points="105.63 566.68 171.31 566.68 138.47 509.8 105.63 566.68"></polygon><polygon class="cls-7" points="236.61 452.92 170.94 452.92 203.77 509.8 236.61 452.92"></polygon><polygon class="cls-57" points="236.61 452.92 203.77 509.8 269.45 509.8 236.61 452.92"></polygon><polygon class="cls-55" points="203.77 509.8 236.61 566.68 269.45 509.8 203.77 509.8"></polygon><polygon class="cls-7" points="170.94 566.68 236.61 566.68 203.77 509.8 170.94 566.68"></polygon><polygon class="cls-56" points="497.46 452.92 563.14 452.92 530.3 509.8 497.46 452.92"></polygon><polygon class="cls-76" points="497.46 452.92 530.3 509.8 464.62 509.8 497.46 452.92"></polygon><polygon class="cls-51" points="530.3 509.8 497.46 566.68 464.62 509.8 530.3 509.8"></polygon><polygon class="cls-59" points="563.14 566.68 497.46 566.68 530.3 509.8 563.14 566.68"></polygon><polygon class="cls-20" points="432.15 452.92 497.83 452.92 464.99 509.8 432.15 452.92"></polygon><polygon class="cls-50" points="432.15 452.92 464.99 509.8 399.32 509.8 432.15 452.92"></polygon><polygon class="cls-5" points="464.99 509.8 432.15 566.68 399.32 509.8 464.99 509.8"></polygon><polygon class="cls-20" points="497.83 566.68 432.15 566.68 464.99 509.8 497.83 566.68"></polygon><polygon class="cls-75" points="366.85 452.92 432.53 452.92 399.69 509.8 366.85 452.92"></polygon><polygon class="cls-85" points="366.85 452.92 399.69 509.8 334.01 509.8 366.85 452.92"></polygon><polygon class="cls-24" points="399.69 509.8 366.85 566.68 334.01 509.8 399.69 509.8"></polygon><polygon class="cls-22" points="432.53 566.68 366.85 566.68 399.69 509.8 432.53 566.68"></polygon><polygon class="cls-47" points="301.55 452.92 367.22 452.92 334.38 509.8 301.55 452.92"></polygon><polygon class="cls-35" points="301.55 452.92 334.38 509.8 268.71 509.8 301.55 452.92"></polygon><polygon class="cls-59" points="334.38 509.8 301.55 566.68 268.71 509.8 334.38 509.8"></polygon><polygon class="cls-63" points="367.22 566.68 301.55 566.68 334.38 509.8 367.22 566.68"></polygon><polygon class="cls-28" points="236.24 452.92 301.92 452.92 269.08 509.8 236.24 452.92"></polygon><polygon class="cls-47" points="301.92 566.68 236.24 566.68 269.08 509.8 301.92 566.68"></polygon><polygon class="cls-69" points="-24.61 565.62 -57.44 622.5 8.23 622.5 -24.61 565.62"></polygon><polygon class="cls-58" points="-57.44 622.5 -24.61 679.38 8.23 622.5 -57.44 622.5"></polygon><polygon class="cls-46" points="40.7 565.62 -24.98 565.62 7.86 622.5 40.7 565.62"></polygon><polygon class="cls-62" points="40.7 565.62 7.86 622.5 73.54 622.5 40.7 565.62"></polygon><polygon class="cls-62" points="7.86 622.5 40.7 679.38 73.54 622.5 7.86 622.5"></polygon><polygon class="cls-71" points="-24.98 679.38 40.7 679.38 7.86 622.5 -24.98 679.38"></polygon><polygon class="cls-23" points="106 565.62 40.33 565.62 73.17 622.5 106 565.62"></polygon><polygon class="cls-18" points="106 565.62 73.17 622.5 138.84 622.5 106 565.62"></polygon><polygon class="cls-65" points="73.17 622.5 106 679.38 138.84 622.5 73.17 622.5"></polygon><polygon class="cls-1" points="40.33 679.38 106 679.38 73.17 622.5 40.33 679.38"></polygon><polygon class="cls-40" points="171.31 565.62 105.63 565.62 138.47 622.5 171.31 565.62"></polygon><polygon class="cls-36" points="171.31 565.62 138.47 622.5 204.15 622.5 171.31 565.62"></polygon><polygon class="cls-12" points="138.47 622.5 171.31 679.38 204.15 622.5 138.47 622.5"></polygon><polygon class="cls-53" points="105.63 679.38 171.31 679.38 138.47 622.5 105.63 679.38"></polygon><polygon class="cls-84" points="236.61 565.62 170.94 565.62 203.77 622.5 236.61 565.62"></polygon><polygon class="cls-84" points="236.61 565.62 203.77 622.5 269.45 622.5 236.61 565.62"></polygon><polygon class="cls-55" points="203.77 622.5 236.61 679.38 269.45 622.5 203.77 622.5"></polygon><polygon class="cls-7" points="170.94 679.38 236.61 679.38 203.77 622.5 170.94 679.38"></polygon><polygon class="cls-56" points="497.46 565.62 563.14 565.62 530.3 622.5 497.46 565.62"></polygon><polygon class="cls-76" points="497.46 565.62 530.3 622.5 464.62 622.5 497.46 565.62"></polygon><polygon class="cls-51" points="530.3 622.5 497.46 679.38 464.62 622.5 530.3 622.5"></polygon><polygon class="cls-59" points="563.14 679.38 497.46 679.38 530.3 622.5 563.14 679.38"></polygon><polygon class="cls-20" points="432.15 565.62 497.83 565.62 464.99 622.5 432.15 565.62"></polygon><polygon class="cls-50" points="432.15 565.62 464.99 622.5 399.32 622.5 432.15 565.62"></polygon><polygon class="cls-5" points="464.99 622.5 432.15 679.38 399.32 622.5 464.99 622.5"></polygon><polygon class="cls-33" points="497.83 679.38 432.15 679.38 464.99 622.5 497.83 679.38"></polygon><polygon class="cls-75" points="366.85 565.62 432.53 565.62 399.69 622.5 366.85 565.62"></polygon><polygon class="cls-85" points="366.85 565.62 399.69 622.5 334.01 622.5 366.85 565.62"></polygon><polygon class="cls-24" points="399.69 622.5 366.85 679.38 334.01 622.5 399.69 622.5"></polygon><polygon class="cls-22" points="432.53 679.38 366.85 679.38 399.69 622.5 432.53 679.38"></polygon><polygon class="cls-64" points="301.55 565.62 367.22 565.62 334.38 622.5 301.55 565.62"></polygon><polygon class="cls-9" points="301.55 565.62 334.38 622.5 268.71 622.5 301.55 565.62"></polygon><polygon class="cls-59" points="334.38 622.5 301.55 679.38 268.71 622.5 334.38 622.5"></polygon><polygon class="cls-35" points="367.22 679.38 301.55 679.38 334.38 622.5 367.22 679.38"></polygon><polygon class="cls-47" points="236.24 565.62 301.92 565.62 269.08 622.5 236.24 565.62"></polygon><polygon class="cls-47" points="301.92 679.38 236.24 679.38 269.08 622.5 301.92 679.38"></polygon><polygon class="cls-69" points="-24.61 678.33 -57.44 735.2 8.23 735.2 -24.61 678.33"></polygon><polygon class="cls-58" points="-57.44 735.2 -24.61 792.08 8.23 735.2 -57.44 735.2"></polygon><polygon class="cls-46" points="40.7 678.33 -24.98 678.33 7.86 735.2 40.7 678.33"></polygon><polygon class="cls-74" points="40.7 678.33 7.86 735.2 73.54 735.2 40.7 678.33"></polygon><polygon class="cls-62" points="7.86 735.2 40.7 792.08 73.54 735.2 7.86 735.2"></polygon><polygon class="cls-71" points="-24.98 792.08 40.7 792.08 7.86 735.2 -24.98 792.08"></polygon><polygon class="cls-23" points="106 678.33 40.33 678.33 73.17 735.2 106 678.33"></polygon><polygon class="cls-18" points="106 678.33 73.17 735.2 138.84 735.2 106 678.33"></polygon><polygon class="cls-65" points="73.17 735.2 106 792.08 138.84 735.2 73.17 735.2"></polygon><polygon class="cls-1" points="40.33 792.08 106 792.08 73.17 735.2 40.33 792.08"></polygon><polygon class="cls-40" points="171.31 678.33 105.63 678.33 138.47 735.2 171.31 678.33"></polygon><polygon class="cls-36" points="171.31 678.33 138.47 735.2 204.15 735.2 171.31 678.33"></polygon><polygon class="cls-12" points="138.47 735.2 171.31 792.08 204.15 735.2 138.47 735.2"></polygon><polygon class="cls-11" points="105.63 792.08 171.31 792.08 138.47 735.2 105.63 792.08"></polygon><polygon class="cls-3" points="236.61 678.33 170.94 678.33 203.77 735.2 236.61 678.33"></polygon><polygon class="cls-84" points="236.61 678.33 203.77 735.2 269.45 735.2 236.61 678.33"></polygon><polygon class="cls-37" points="203.77 735.2 236.61 792.08 269.45 735.2 203.77 735.2"></polygon><polygon class="cls-7" points="170.94 792.08 236.61 792.08 203.77 735.2 170.94 792.08"></polygon><polygon class="cls-56" points="497.46 678.33 563.14 678.33 530.3 735.2 497.46 678.33"></polygon><polygon class="cls-76" points="497.46 678.33 530.3 735.2 464.62 735.2 497.46 678.33"></polygon><polygon class="cls-51" points="530.3 735.2 497.46 792.08 464.62 735.2 530.3 735.2"></polygon><polygon class="cls-59" points="563.14 792.08 497.46 792.08 530.3 735.2 563.14 792.08"></polygon><polygon class="cls-20" points="432.15 678.33 497.83 678.33 464.99 735.2 432.15 678.33"></polygon><polygon class="cls-50" points="432.15 678.33 464.99 735.2 399.32 735.2 432.15 678.33"></polygon><polygon class="cls-5" points="464.99 735.2 432.15 792.08 399.32 735.2 464.99 735.2"></polygon><polygon class="cls-68" points="497.83 792.08 432.15 792.08 464.99 735.2 497.83 792.08"></polygon><polygon class="cls-75" points="366.85 678.33 432.53 678.33 399.69 735.2 366.85 678.33"></polygon><polygon class="cls-81" points="366.85 678.33 399.69 735.2 334.01 735.2 366.85 678.33"></polygon><polygon class="cls-24" points="399.69 735.2 366.85 792.08 334.01 735.2 399.69 735.2"></polygon><polygon class="cls-22" points="432.53 792.08 366.85 792.08 399.69 735.2 432.53 792.08"></polygon><polygon class="cls-64" points="301.55 678.33 367.22 678.33 334.38 735.2 301.55 678.33"></polygon><polygon class="cls-9" points="301.55 678.33 334.38 735.2 268.71 735.2 301.55 678.33"></polygon><polygon class="cls-59" points="334.38 735.2 301.55 792.08 268.71 735.2 334.38 735.2"></polygon><polygon class="cls-35" points="367.22 792.08 301.55 792.08 334.38 735.2 367.22 792.08"></polygon><polygon class="cls-45" points="236.24 678.33 301.92 678.33 269.08 735.2 236.24 678.33"></polygon><polygon class="cls-87" points="301.92 792.08 236.24 792.08 269.08 735.2 301.92 792.08"></polygon><polygon class="cls-15" points="563.14 0 530.3 56.88 595.98 56.88 563.14 0"></polygon><polygon class="cls-20" points="530.3 56.88 563.14 113.76 595.98 56.88 530.3 56.88"></polygon><polygon class="cls-13" points="628.44 0 562.76 0 595.6 56.88 628.44 0"></polygon><polygon class="cls-79" points="628.44 0 595.6 56.88 661.28 56.88 628.44 0"></polygon><polygon class="cls-19" points="595.6 56.88 628.44 113.76 661.28 56.88 595.6 56.88"></polygon><polygon class="cls-50" points="562.76 113.76 628.44 113.76 595.6 56.88 562.76 113.76"></polygon><polygon class="cls-43" points="693.75 0 628.07 0 660.91 56.88 693.75 0"></polygon><polygon class="cls-30" points="693.75 0 660.91 56.88 726.58 56.88 693.75 0"></polygon><polygon class="cls-32" points="660.91 56.88 693.75 113.76 726.58 56.88 660.91 56.88"></polygon><polygon class="cls-16" points="628.07 113.76 693.75 113.76 660.91 56.88 628.07 113.76"></polygon><polygon class="cls-67" points="759.05 0 693.37 0 726.21 56.88 759.05 0"></polygon><polygon class="cls-25" points="759.05 0 726.21 56.88 791.89 56.88 759.05 0"></polygon><polygon class="cls-34" points="726.21 56.88 759.05 113.76 791.89 56.88 726.21 56.88"></polygon><polygon class="cls-73" points="693.37 113.76 759.05 113.76 726.21 56.88 693.37 113.76"></polygon><polygon class="cls-4" points="824.36 0 758.68 0 791.52 56.88 824.36 0"></polygon><polygon class="cls-70" points="824.36 0 791.52 56.88 857.19 56.88 824.36 0"></polygon><polygon class="cls-60" points="791.52 56.88 824.36 113.76 857.19 56.88 791.52 56.88"></polygon><polygon class="cls-72" points="758.68 113.76 824.36 113.76 791.52 56.88 758.68 113.76"></polygon><polygon class="cls-15" points="563.14 113.76 530.3 170.63 595.98 170.63 563.14 113.76"></polygon><polygon class="cls-20" points="530.3 170.63 563.14 227.51 595.98 170.63 530.3 170.63"></polygon><polygon class="cls-13" points="628.44 113.76 562.76 113.76 595.6 170.63 628.44 113.76"></polygon><polygon class="cls-15" points="628.44 113.76 595.6 170.63 661.28 170.63 628.44 113.76"></polygon><polygon class="cls-8" points="595.6 170.63 628.44 227.51 661.28 170.63 595.6 170.63"></polygon><polygon class="cls-50" points="562.76 227.51 628.44 227.51 595.6 170.63 562.76 227.51"></polygon><polygon class="cls-16" points="693.75 113.76 628.07 113.76 660.91 170.63 693.75 113.76"></polygon><polygon class="cls-30" points="693.75 113.76 660.91 170.63 726.58 170.63 693.75 113.76"></polygon><polygon class="cls-32" points="660.91 170.63 693.75 227.51 726.58 170.63 660.91 170.63"></polygon><polygon class="cls-17" points="628.07 227.51 693.75 227.51 660.91 170.63 628.07 227.51"></polygon><polygon class="cls-67" points="759.05 113.76 693.37 113.76 726.21 170.63 759.05 113.76"></polygon><polygon class="cls-25" points="759.05 113.76 726.21 170.63 791.89 170.63 759.05 113.76"></polygon><polygon class="cls-34" points="726.21 170.63 759.05 227.51 791.89 170.63 726.21 170.63"></polygon><polygon class="cls-73" points="693.37 227.51 759.05 227.51 726.21 170.63 693.37 227.51"></polygon><polygon class="cls-31" points="824.36 113.76 758.68 113.76 791.52 170.63 824.36 113.76"></polygon><polygon class="cls-49" points="824.36 113.76 791.52 170.63 857.19 170.63 824.36 113.76"></polygon><polygon class="cls-42" points="791.52 170.63 824.36 227.51 857.19 170.63 791.52 170.63"></polygon><polygon class="cls-72" points="758.68 227.51 824.36 227.51 791.52 170.63 758.68 227.51"></polygon><polygon class="cls-15" points="563.14 227.51 530.3 284.39 595.98 284.39 563.14 227.51"></polygon><polygon class="cls-44" points="530.3 284.39 563.14 341.27 595.98 284.39 530.3 284.39"></polygon><polygon class="cls-66" points="628.44 227.51 562.76 227.51 595.6 284.39 628.44 227.51"></polygon><polygon class="cls-15" points="628.44 227.51 595.6 284.39 661.28 284.39 628.44 227.51"></polygon><polygon class="cls-79" points="595.6 284.39 628.44 341.27 661.28 284.39 595.6 284.39"></polygon><polygon class="cls-51" points="562.76 341.27 628.44 341.27 595.6 284.39 562.76 341.27"></polygon><polygon class="cls-16" points="693.75 227.51 628.07 227.51 660.91 284.39 693.75 227.51"></polygon><polygon class="cls-30" points="693.75 227.51 660.91 284.39 726.58 284.39 693.75 227.51"></polygon><polygon class="cls-32" points="660.91 284.39 693.75 341.27 726.58 284.39 660.91 284.39"></polygon><polygon class="cls-19" points="628.07 341.27 693.75 341.27 660.91 284.39 628.07 341.27"></polygon><polygon class="cls-67" points="759.05 227.51 693.37 227.51 726.21 284.39 759.05 227.51"></polygon><polygon class="cls-25" points="759.05 227.51 726.21 284.39 791.89 284.39 759.05 227.51"></polygon><polygon class="cls-34" points="726.21 284.39 759.05 341.27 791.89 284.39 726.21 284.39"></polygon><polygon class="cls-73" points="693.37 341.27 759.05 341.27 726.21 284.39 693.37 341.27"></polygon><polygon class="cls-83" points="824.36 227.51 758.68 227.51 791.52 284.39 824.36 227.51"></polygon><polygon class="cls-49" points="824.36 227.51 791.52 284.39 857.19 284.39 824.36 227.51"></polygon><polygon class="cls-42" points="791.52 284.39 824.36 341.27 857.19 284.39 791.52 284.39"></polygon><polygon class="cls-72" points="758.68 341.27 824.36 341.27 791.52 284.39 758.68 341.27"></polygon><polygon class="cls-68" points="563.14 340.22 530.3 397.09 595.98 397.09 563.14 340.22"></polygon><polygon class="cls-81" points="530.3 397.09 563.14 453.97 595.98 397.09 530.3 397.09"></polygon><polygon class="cls-66" points="628.44 340.22 562.76 340.22 595.6 397.09 628.44 340.22"></polygon><polygon class="cls-15" points="628.44 340.22 595.6 397.09 661.28 397.09 628.44 340.22"></polygon><polygon class="cls-79" points="595.6 397.09 628.44 453.97 661.28 397.09 595.6 397.09"></polygon><polygon class="cls-31" points="562.76 453.97 628.44 453.97 595.6 397.09 562.76 453.97"></polygon><polygon class="cls-16" points="693.75 340.22 628.07 340.22 660.91 397.09 693.75 340.22"></polygon><polygon class="cls-30" points="693.75 340.22 660.91 397.09 726.58 397.09 693.75 340.22"></polygon><polygon class="cls-32" points="660.91 397.09 693.75 453.97 726.58 397.09 660.91 397.09"></polygon><polygon class="cls-19" points="628.07 453.97 693.75 453.97 660.91 397.09 628.07 453.97"></polygon><polygon class="cls-67" points="759.05 340.22 693.37 340.22 726.21 397.09 759.05 340.22"></polygon><polygon class="cls-25" points="759.05 340.22 726.21 397.09 791.89 397.09 759.05 340.22"></polygon><polygon class="cls-34" points="726.21 397.09 759.05 453.97 791.89 397.09 726.21 397.09"></polygon><polygon class="cls-73" points="693.37 453.97 759.05 453.97 726.21 397.09 693.37 453.97"></polygon><polygon class="cls-83" points="824.36 340.22 758.68 340.22 791.52 397.09 824.36 340.22"></polygon><polygon class="cls-49" points="824.36 340.22 791.52 397.09 857.19 397.09 824.36 340.22"></polygon><polygon class="cls-34" points="791.52 397.09 824.36 453.97 857.19 397.09 791.52 397.09"></polygon><polygon class="cls-42" points="758.68 453.97 824.36 453.97 791.52 397.09 758.68 453.97"></polygon><polygon class="cls-68" points="563.14 452.92 530.3 509.8 595.98 509.8 563.14 452.92"></polygon><polygon class="cls-81" points="530.3 509.8 563.14 566.68 595.98 509.8 530.3 509.8"></polygon><polygon class="cls-15" points="628.44 452.92 562.76 452.92 595.6 509.8 628.44 452.92"></polygon><polygon class="cls-15" points="628.44 452.92 595.6 509.8 661.28 509.8 628.44 452.92"></polygon><polygon class="cls-79" points="595.6 509.8 628.44 566.68 661.28 509.8 595.6 509.8"></polygon><polygon class="cls-31" points="562.76 566.68 628.44 566.68 595.6 509.8 562.76 566.68"></polygon><polygon class="cls-16" points="693.75 452.92 628.07 452.92 660.91 509.8 693.75 452.92"></polygon><polygon class="cls-30" points="693.75 452.92 660.91 509.8 726.58 509.8 693.75 452.92"></polygon><polygon class="cls-32" points="660.91 509.8 693.75 566.68 726.58 509.8 660.91 509.8"></polygon><polygon class="cls-19" points="628.07 566.68 693.75 566.68 660.91 509.8 628.07 566.68"></polygon><polygon class="cls-67" points="759.05 452.92 693.37 452.92 726.21 509.8 759.05 452.92"></polygon><polygon class="cls-72" points="759.05 452.92 726.21 509.8 791.89 509.8 759.05 452.92"></polygon><polygon class="cls-42" points="726.21 509.8 759.05 566.68 791.89 509.8 726.21 509.8"></polygon><polygon class="cls-73" points="693.37 566.68 759.05 566.68 726.21 509.8 693.37 566.68"></polygon><polygon class="cls-25" points="824.36 452.92 758.68 452.92 791.52 509.8 824.36 452.92"></polygon><polygon class="cls-86" points="824.36 452.92 791.52 509.8 857.19 509.8 824.36 452.92"></polygon><polygon class="cls-34" points="791.52 509.8 824.36 566.68 857.19 509.8 791.52 509.8"></polygon><polygon class="cls-42" points="758.68 566.68 824.36 566.68 791.52 509.8 758.68 566.68"></polygon><polygon class="cls-68" points="563.14 565.62 530.3 622.5 595.98 622.5 563.14 565.62"></polygon><polygon class="cls-81" points="530.3 622.5 563.14 679.38 595.98 622.5 530.3 622.5"></polygon><polygon class="cls-15" points="628.44 565.62 562.76 565.62 595.6 622.5 628.44 565.62"></polygon><polygon class="cls-15" points="628.44 565.62 595.6 622.5 661.28 622.5 628.44 565.62"></polygon><polygon class="cls-79" points="595.6 622.5 628.44 679.38 661.28 622.5 595.6 622.5"></polygon><polygon class="cls-60" points="562.76 679.38 628.44 679.38 595.6 622.5 562.76 679.38"></polygon><polygon class="cls-16" points="693.75 565.62 628.07 565.62 660.91 622.5 693.75 565.62"></polygon><polygon class="cls-30" points="693.75 565.62 660.91 622.5 726.58 622.5 693.75 565.62"></polygon><polygon class="cls-32" points="660.91 622.5 693.75 679.38 726.58 622.5 660.91 622.5"></polygon><polygon class="cls-19" points="628.07 679.38 693.75 679.38 660.91 622.5 628.07 679.38"></polygon><polygon class="cls-41" points="759.05 565.62 693.37 565.62 726.21 622.5 759.05 565.62"></polygon><polygon class="cls-21" points="759.05 565.62 726.21 622.5 791.89 622.5 759.05 565.62"></polygon><polygon class="cls-42" points="726.21 622.5 759.05 679.38 791.89 622.5 726.21 622.5"></polygon><polygon class="cls-73" points="693.37 679.38 759.05 679.38 726.21 622.5 693.37 679.38"></polygon><polygon class="cls-6" points="824.36 565.62 758.68 565.62 791.52 622.5 824.36 565.62"></polygon><polygon class="cls-70" points="824.36 565.62 791.52 622.5 857.19 622.5 824.36 565.62"></polygon><polygon class="cls-34" points="791.52 622.5 824.36 679.38 857.19 622.5 791.52 622.5"></polygon><polygon class="cls-10" points="758.68 679.38 824.36 679.38 791.52 622.5 758.68 679.38"></polygon><polygon class="cls-68" points="563.14 678.33 530.3 735.2 595.98 735.2 563.14 678.33"></polygon><polygon class="cls-44" points="530.3 735.2 563.14 792.08 595.98 735.2 530.3 735.2"></polygon><polygon class="cls-15" points="628.44 678.33 562.76 678.33 595.6 735.2 628.44 678.33"></polygon><polygon class="cls-15" points="628.44 678.33 595.6 735.2 661.28 735.2 628.44 678.33"></polygon><polygon class="cls-79" points="595.6 735.2 628.44 792.08 661.28 735.2 595.6 735.2"></polygon><polygon class="cls-60" points="562.76 792.08 628.44 792.08 595.6 735.2 562.76 792.08"></polygon><polygon class="cls-16" points="693.75 678.33 628.07 678.33 660.91 735.2 693.75 678.33"></polygon><polygon class="cls-30" points="693.75 678.33 660.91 735.2 726.58 735.2 693.75 678.33"></polygon><polygon class="cls-32" points="660.91 735.2 693.75 792.08 726.58 735.2 660.91 735.2"></polygon><polygon class="cls-19" points="628.07 792.08 693.75 792.08 660.91 735.2 628.07 792.08"></polygon><polygon class="cls-73" points="759.05 678.33 693.37 678.33 726.21 735.2 759.05 678.33"></polygon><polygon class="cls-4" points="759.05 678.33 726.21 735.2 791.89 735.2 759.05 678.33"></polygon><polygon class="cls-72" points="726.21 735.2 759.05 792.08 791.89 735.2 726.21 735.2"></polygon><polygon class="cls-14" points="693.37 792.08 759.05 792.08 726.21 735.2 693.37 792.08"></polygon><polygon class="cls-6" points="824.36 678.33 758.68 678.33 791.52 735.2 824.36 678.33"></polygon><polygon class="cls-70" points="824.36 678.33 791.52 735.2 857.19 735.2 824.36 678.33"></polygon><polygon class="cls-31" points="791.52 735.2 824.36 792.08 857.19 735.2 791.52 735.2"></polygon><polygon class="cls-10" points="758.68 792.08 824.36 792.08 791.52 735.2 758.68 792.08"></polygon></g><g class="cls-2"><polygon class="cls-58" points="-24.61 792.08 -57.44 848.96 8.23 848.96 -24.61 792.08"></polygon><polygon class="cls-78" points="-57.44 848.96 -24.61 905.84 8.23 848.96 -57.44 848.96"></polygon><polygon class="cls-74" points="40.7 792.08 -24.98 792.08 7.86 848.96 40.7 792.08"></polygon><polygon class="cls-62" points="40.7 792.08 7.86 848.96 73.54 848.96 40.7 792.08"></polygon><polygon class="cls-1" points="7.86 848.96 40.7 905.84 73.54 848.96 7.86 848.96"></polygon><polygon class="cls-71" points="-24.98 905.84 40.7 905.84 7.86 848.96 -24.98 905.84"></polygon><polygon class="cls-27" points="106 792.08 40.33 792.08 73.17 848.96 106 792.08"></polygon><polygon class="cls-65" points="106 792.08 73.17 848.96 138.84 848.96 106 792.08"></polygon><polygon class="cls-59" points="73.17 848.96 106 905.84 138.84 848.96 73.17 848.96"></polygon><polygon class="cls-23" points="40.33 905.84 106 905.84 73.17 848.96 40.33 905.84"></polygon><polygon class="cls-87" points="171.31 792.08 105.63 792.08 138.47 848.96 171.31 792.08"></polygon><polygon class="cls-77" points="171.31 792.08 138.47 848.96 204.15 848.96 171.31 792.08"></polygon><polygon class="cls-40" points="138.47 848.96 171.31 905.84 204.15 848.96 138.47 848.96"></polygon><polygon class="cls-45" points="105.63 905.84 171.31 905.84 138.47 848.96 105.63 905.84"></polygon><polygon class="cls-11" points="236.61 792.08 170.94 792.08 203.77 848.96 236.61 792.08"></polygon><polygon class="cls-3" points="236.61 792.08 203.77 848.96 269.45 848.96 236.61 792.08"></polygon><polygon class="cls-57" points="203.77 848.96 236.61 905.84 269.45 848.96 203.77 848.96"></polygon><polygon class="cls-35" points="170.94 905.84 236.61 905.84 203.77 848.96 170.94 905.84"></polygon><polygon class="cls-31" points="497.46 792.08 563.14 792.08 530.3 848.96 497.46 792.08"></polygon><polygon class="cls-48" points="497.46 792.08 530.3 848.96 464.62 848.96 497.46 792.08"></polygon><polygon class="cls-56" points="530.3 848.96 497.46 905.84 464.62 848.96 530.3 848.96"></polygon><polygon class="cls-33" points="563.14 905.84 497.46 905.84 530.3 848.96 563.14 905.84"></polygon><polygon class="cls-5" points="432.15 792.08 497.83 792.08 464.99 848.96 432.15 792.08"></polygon><polygon class="cls-59" points="432.15 792.08 464.99 848.96 399.32 848.96 432.15 792.08"></polygon><polygon class="cls-22" points="464.99 848.96 432.15 905.84 399.32 848.96 464.99 848.96"></polygon><polygon class="cls-75" points="497.83 905.84 432.15 905.84 464.99 848.96 497.83 905.84"></polygon><polygon class="cls-81" points="366.85 792.08 432.53 792.08 399.69 848.96 366.85 792.08"></polygon><polygon class="cls-24" points="366.85 792.08 399.69 848.96 334.01 848.96 366.85 792.08"></polygon><polygon class="cls-55" points="399.69 848.96 366.85 905.84 334.01 848.96 399.69 848.96"></polygon><polygon class="cls-22" points="432.53 905.84 366.85 905.84 399.69 848.96 432.53 905.84"></polygon><polygon class="cls-12" points="301.55 792.08 367.22 792.08 334.38 848.96 301.55 792.08"></polygon><polygon class="cls-7" points="301.55 792.08 334.38 848.96 268.71 848.96 301.55 792.08"></polygon><polygon class="cls-84" points="334.38 848.96 301.55 905.84 268.71 848.96 334.38 848.96"></polygon><polygon class="cls-47" points="367.22 905.84 301.55 905.84 334.38 848.96 367.22 905.84"></polygon><polygon class="cls-64" points="236.24 792.08 301.92 792.08 269.08 848.96 236.24 792.08"></polygon><polygon class="cls-37" points="301.92 905.84 236.24 905.84 269.08 848.96 301.92 905.84"></polygon><polygon class="cls-69" points="-24.61 905.84 -57.44 962.72 8.23 962.72 -24.61 905.84"></polygon><polygon class="cls-78" points="-57.44 962.72 -24.61 1019.6 8.23 962.72 -57.44 962.72"></polygon><polygon class="cls-74" points="40.7 905.84 -24.98 905.84 7.86 962.72 40.7 905.84"></polygon><polygon class="cls-62" points="40.7 905.84 7.86 962.72 73.54 962.72 40.7 905.84"></polygon><polygon class="cls-29" points="7.86 962.72 40.7 1019.6 73.54 962.72 7.86 962.72"></polygon><polygon class="cls-71" points="-24.98 1019.6 40.7 1019.6 7.86 962.72 -24.98 1019.6"></polygon><polygon class="cls-27" points="106 905.84 40.33 905.84 73.17 962.72 106 905.84"></polygon><polygon class="cls-65" points="106 905.84 73.17 962.72 138.84 962.72 106 905.84"></polygon><polygon class="cls-59" points="73.17 962.72 106 1019.6 138.84 962.72 73.17 962.72"></polygon><polygon class="cls-23" points="40.33 1019.6 106 1019.6 73.17 962.72 40.33 1019.6"></polygon><polygon class="cls-45" points="171.31 905.84 105.63 905.84 138.47 962.72 171.31 905.84"></polygon><polygon class="cls-77" points="171.31 905.84 138.47 962.72 204.15 962.72 171.31 905.84"></polygon><polygon class="cls-40" points="138.47 962.72 171.31 1019.6 204.15 962.72 138.47 962.72"></polygon><polygon class="cls-45" points="105.63 1019.6 171.31 1019.6 138.47 962.72 105.63 1019.6"></polygon><polygon class="cls-11" points="236.61 905.84 170.94 905.84 203.77 962.72 236.61 905.84"></polygon><polygon class="cls-53" points="236.61 905.84 203.77 962.72 269.45 962.72 236.61 905.84"></polygon><polygon class="cls-57" points="203.77 962.72 236.61 1019.6 269.45 962.72 203.77 962.72"></polygon><polygon class="cls-35" points="170.94 1019.6 236.61 1019.6 203.77 962.72 170.94 1019.6"></polygon><polygon class="cls-33" points="497.46 905.84 563.14 905.84 530.3 962.72 497.46 905.84"></polygon><polygon class="cls-48" points="497.46 905.84 530.3 962.72 464.62 962.72 497.46 905.84"></polygon><polygon class="cls-56" points="530.3 962.72 497.46 1019.6 464.62 962.72 530.3 962.72"></polygon><polygon class="cls-38" points="563.14 1019.6 497.46 1019.6 530.3 962.72 563.14 1019.6"></polygon><polygon class="cls-5" points="432.15 905.84 497.83 905.84 464.99 962.72 432.15 905.84"></polygon><polygon class="cls-59" points="432.15 905.84 464.99 962.72 399.32 962.72 432.15 905.84"></polygon><polygon class="cls-80" points="464.99 962.72 432.15 1019.6 399.32 962.72 464.99 962.72"></polygon><polygon class="cls-75" points="497.83 1019.6 432.15 1019.6 464.99 962.72 497.83 1019.6"></polygon><polygon class="cls-81" points="366.85 905.84 432.53 905.84 399.69 962.72 366.85 905.84"></polygon><polygon class="cls-24" points="366.85 905.84 399.69 962.72 334.01 962.72 366.85 905.84"></polygon><polygon class="cls-55" points="399.69 962.72 366.85 1019.6 334.01 962.72 399.69 962.72"></polygon><polygon class="cls-22" points="432.53 1019.6 366.85 1019.6 399.69 962.72 432.53 1019.6"></polygon><polygon class="cls-39" points="301.55 905.84 367.22 905.84 334.38 962.72 301.55 905.84"></polygon><polygon class="cls-7" points="301.55 905.84 334.38 962.72 268.71 962.72 301.55 905.84"></polygon><polygon class="cls-84" points="334.38 962.72 301.55 1019.6 268.71 962.72 334.38 962.72"></polygon><polygon class="cls-47" points="367.22 1019.6 301.55 1019.6 334.38 962.72 367.22 1019.6"></polygon><polygon class="cls-64" points="236.24 905.84 301.92 905.84 269.08 962.72 236.24 905.84"></polygon><polygon class="cls-37" points="301.92 1019.6 236.24 1019.6 269.08 962.72 301.92 1019.6"></polygon><polygon class="cls-15" points="563.14 792.08 530.3 848.96 595.98 848.96 563.14 792.08"></polygon><polygon class="cls-20" points="530.3 848.96 563.14 905.84 595.98 848.96 530.3 848.96"></polygon><polygon class="cls-13" points="628.44 792.08 562.76 792.08 595.6 848.96 628.44 792.08"></polygon><polygon class="cls-79" points="628.44 792.08 595.6 848.96 661.28 848.96 628.44 792.08"></polygon><polygon class="cls-19" points="595.6 848.96 628.44 905.84 661.28 848.96 595.6 848.96"></polygon><polygon class="cls-50" points="562.76 905.84 628.44 905.84 595.6 848.96 562.76 905.84"></polygon><polygon class="cls-43" points="693.75 792.08 628.07 792.08 660.91 848.96 693.75 792.08"></polygon><polygon class="cls-30" points="693.75 792.08 660.91 848.96 726.58 848.96 693.75 792.08"></polygon><polygon class="cls-32" points="660.91 848.96 693.75 905.84 726.58 848.96 660.91 848.96"></polygon><polygon class="cls-16" points="628.07 905.84 693.75 905.84 660.91 848.96 628.07 905.84"></polygon><polygon class="cls-67" points="759.05 792.08 693.37 792.08 726.21 848.96 759.05 792.08"></polygon><polygon class="cls-25" points="759.05 792.08 726.21 848.96 791.89 848.96 759.05 792.08"></polygon><polygon class="cls-34" points="726.21 848.96 759.05 905.84 791.89 848.96 726.21 848.96"></polygon><polygon class="cls-73" points="693.37 905.84 759.05 905.84 726.21 848.96 693.37 905.84"></polygon><polygon class="cls-4" points="824.36 792.08 758.68 792.08 791.52 848.96 824.36 792.08"></polygon><polygon class="cls-70" points="824.36 792.08 791.52 848.96 857.19 848.96 824.36 792.08"></polygon><polygon class="cls-60" points="791.52 848.96 824.36 905.84 857.19 848.96 791.52 848.96"></polygon><polygon class="cls-72" points="758.68 905.84 824.36 905.84 791.52 848.96 758.68 905.84"></polygon><polygon class="cls-15" points="563.14 905.84 530.3 962.72 595.98 962.72 563.14 905.84"></polygon><polygon class="cls-20" points="530.3 962.72 563.14 1019.6 595.98 962.72 530.3 962.72"></polygon><polygon class="cls-13" points="628.44 905.84 562.76 905.84 595.6 962.72 628.44 905.84"></polygon><polygon class="cls-15" points="628.44 905.84 595.6 962.72 661.28 962.72 628.44 905.84"></polygon><polygon class="cls-8" points="595.6 962.72 628.44 1019.6 661.28 962.72 595.6 962.72"></polygon><polygon class="cls-50" points="562.76 1019.6 628.44 1019.6 595.6 962.72 562.76 1019.6"></polygon><polygon class="cls-16" points="693.75 905.84 628.07 905.84 660.91 962.72 693.75 905.84"></polygon><polygon class="cls-30" points="693.75 905.84 660.91 962.72 726.58 962.72 693.75 905.84"></polygon><polygon class="cls-32" points="660.91 962.72 693.75 1019.6 726.58 962.72 660.91 962.72"></polygon><polygon class="cls-17" points="628.07 1019.6 693.75 1019.6 660.91 962.72 628.07 1019.6"></polygon><polygon class="cls-67" points="759.05 905.84 693.37 905.84 726.21 962.72 759.05 905.84"></polygon><polygon class="cls-25" points="759.05 905.84 726.21 962.72 791.89 962.72 759.05 905.84"></polygon><polygon class="cls-34" points="726.21 962.72 759.05 1019.6 791.89 962.72 726.21 962.72"></polygon><polygon class="cls-73" points="693.37 1019.6 759.05 1019.6 726.21 962.72 693.37 1019.6"></polygon><polygon class="cls-31" points="824.36 905.84 758.68 905.84 791.52 962.72 824.36 905.84"></polygon><polygon class="cls-49" points="824.36 905.84 791.52 962.72 857.19 962.72 824.36 905.84"></polygon><polygon class="cls-42" points="791.52 962.72 824.36 1019.6 857.19 962.72 791.52 962.72"></polygon><polygon class="cls-72" points="758.68 1019.6 824.36 1019.6 791.52 962.72 758.68 1019.6"></polygon></g></g></g></g></g></svg>

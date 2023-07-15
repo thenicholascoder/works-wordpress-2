@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1013 1942.12"><defs><style>.cls-1 {
+  fill: #fff;
+}
+
+.cls-2 {
+  fill: url("#_称未設定グラデーション_3");
+}
+
+</style><linearGradient id="_称未設定グラデーション_3" x1="506.5" y1="-4.94" x2="506.5" y2="1954.88" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"></stop><stop offset=".09" stop-color="#fefcf8"></stop><stop offset=".22" stop-color="#fdf5e6"></stop><stop offset=".37" stop-color="#fbeac8"></stop><stop offset=".54" stop-color="#f8db9f"></stop><stop offset=".71" stop-color="#f5c76b"></stop><stop offset=".78" stop-color="#f4c056"></stop><stop offset=".84" stop-color="#f3ba46"></stop><stop offset=".93" stop-color="#f2b538"></stop><stop offset="1" stop-color="#f2b434"></stop><stop offset="1" stop-color="#dea733"></stop><stop offset="1" stop-color="#b58d32"></stop><stop offset="1" stop-color="#907532"></stop><stop offset="1" stop-color="#6f6031"></stop><stop offset="1" stop-color="#544f31"></stop><stop offset="1" stop-color="#3e4030"></stop><stop offset="1" stop-color="#2d3630"></stop><stop offset="1" stop-color="#212e30"></stop><stop offset="1" stop-color="#1a2a30"></stop><stop offset="1" stop-color="#192930"></stop></linearGradient></defs><g id="upward_lp"><g><path class="cls-2" d="M990.03,1800.69l-474.95,140.17c-5.57,1.66-11.46,1.68-17.03,.06L23.16,1800.59c-13.68-3.99-23.16-17.13-23.16-32.1V33.31C0,14.91,14.14,0,31.58,0H981.42c17.44,0,31.58,14.91,31.58,33.31V1768.65c0,14.9-9.38,27.98-22.97,32.04Z"></path><path class="cls-1" d="M983.83,1795.19l-468.93,138.37c-5.49,1.64-11.31,1.66-16.81,.06L29.36,1795.08c-13.51-3.94-22.86-16.91-22.86-31.69V50.48c0-18.16,13.96-32.88,31.17-32.88H975.33c17.22,0,31.17,14.72,31.17,32.88V1763.55c0,14.71-9.26,27.62-22.67,31.63Z"></path></g></g></svg>
